@@ -1,3 +1,4 @@
+// контейнер диаграмм
 let container = document.querySelector(`.items-container`);
 
  container.innerHTML += `<div
